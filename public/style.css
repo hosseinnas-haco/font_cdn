@@ -1,0 +1,40 @@
+
+@font-face {
+  font-family: 'Alibaba';
+  src: url('/Alibaba/Alibaba-Regular.ttf') format('truetype'),
+    url('/Alibaba/Alibaba-Regular.eot') format('eot'),
+    url('/Alibaba/Alibaba-Regular.woff') format('woff'),
+    url('/Alibaba/Alibaba-Regular.woff2') format('woff2');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Alibaba';
+  src: url('/Alibaba/Alibaba-Light.ttf') format('truetype'),
+    url('/Alibaba/Alibaba-Light.eot') format('eot'),
+    url('/Alibaba/Alibaba-Light.woff') format('woff'),
+    url('/Alibaba/Alibaba-Light.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Alibaba';
+  src: url('/Alibaba/Alibaba-Bold.ttf') format('truetype'),
+    url('/Alibaba/Alibaba-Bold.eot') format('eot'),
+    url('/Alibaba/Alibaba-Bold.woff') format('woff'),
+    url('/Alibaba/Alibaba-Bold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Alibaba';
+  src: url('/Alibaba/Alibaba-Black.ttf') format('truetype'),
+    url('/Alibaba/Alibaba-Black.eot') format('eot'),
+    url('/Alibaba/Alibaba-Black.woff') format('woff'),
+    url('/Alibaba/Alibaba-Black.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 900;
+}
