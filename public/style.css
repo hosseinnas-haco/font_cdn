@@ -493,3 +493,153 @@ CondensedItalic /Anjoman/fonts
 		 url('/Anjoman/fonts/woff2/Anjoman-CondensedItalic.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
 		 url('/Anjoman/fonts/woff/Anjoman-CondensedItalic.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
 }
+
+
+/* Ahang Normal */
+
+@font-face {
+	font-family: '_Ahang';
+	font-style: normal;
+	font-weight: 100;
+	src: url('/Ahang/fonts/normal/woff2/Ahang-Thin.woff2') format('woff2'),  /* FF39+,ChroMe36+, Opera24+*/
+		 url('/Ahang/fonts/normal/woff/Ahang-Thin.woff') format('woff');  /* FF3.6+, IE9, ChroMe6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang';
+	font-style: normal;
+	font-weight: 200;
+	src: url('/Ahang/fonts/normal/woff2/Ahang-UltraLight.woff2') format('woff2'),  /* FF39+,ChroMe36+, Opera24+*/
+		 url('/Ahang/fonts/normal/woff/Ahang-UltraLight.woff') format('woff');  /* FF3.6+, IE9, ChroMe6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang';
+	font-style: normal;
+	font-weight: 300;
+	src: url('/Ahang/fonts/normal/woff2/Ahang-Light.woff2') format('woff2'),  /* FF39+,ChroMe36+, Opera24+*/
+		 url('/Ahang/fonts/normal/woff/Ahang-Light.woff') format('woff');  /* FF3.6+, IE9, ChroMe6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang';
+	font-style: normal;
+	font-weight: 500;
+	src: url('/Ahang/fonts/normal/woff2/Ahang-Medium.woff2') format('woff2'),  /* FF39+,ChroMe36+, Opera24+*/
+		 url('/Ahang/fonts/normal/woff/Ahang-Medium.woff') format('woff');  /* FF3.6+, IE9, ChroMe6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang';
+	font-style: normal;
+	font-weight: 600;
+	src: url('/Ahang/fonts/normal/woff2/Ahang-DemiBold.woff2') format('woff2'),  /* FF39+,ChroMe36+, Opera24+*/
+		 url('/Ahang/fonts/normal/woff/Ahang-DemiBold.woff') format('woff');  /* FF3.6+, IE9, ChroMe6+, Saf5.1+*/
+}
+
+@font-face {
+	font-family: '_Ahang';
+	font-style: normal;
+	font-weight: 800;
+	src: url('/Ahang/fonts/normal/woff2/Ahang-ExtraBold.woff2') format('woff2'),  /* FF39+,ChroMe36+, Opera24+*/
+		 url('/Ahang/fonts/normal/woff/Ahang-ExtraBold.woff') format('woff');  /* FF3.6+, IE9, ChroMe6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang';
+	font-style: normal;
+	font-weight: 850;
+	src: url('/Ahang/fonts/normal/woff2/Ahang-UltraBold.woff2') format('woff2'),  /* FF39+,ChroMe36+, Opera24+*/
+		 url('/Ahang/fonts/normal/woff/Ahang-UltraBold.woff') format('woff');  /* FF3.6+, IE9, ChroMe6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang';
+	font-style: normal;
+	font-weight: 900;
+	src: url('/Ahang/fonts/normal/woff2/Ahang-Black.woff2') format('woff2'),  /* FF39+,ChroMe36+, Opera24+*/
+		 url('/Ahang/fonts/normal/woff/Ahang-Black.woff') format('woff');  /* FF3.6+, IE9, ChroMe6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang';
+	font-style: normal;
+	font-weight: Bold;
+	src: url('/Ahang/fonts/normal/woff2/Ahang-Bold.woff2') format('woff2'),  /* FF39+,ChroMe36+, Opera24+*/
+		 url('/Ahang/fonts/normal/woff/Ahang-Bold.woff') format('woff');  /* FF3.6+, IE9, ChroMe6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang';
+	font-style: normal;
+	font-weight: normal;
+	src: url('/Ahang/fonts/normal/woff2/Ahang-Regular.woff2') format('woff2'),  /* FF39+,ChroMe36+, Opera24+*/
+		 url('/Ahang/fonts/normal/woff/Ahang-Regular.woff') format('woff');  /* FF3.6+, IE9, ChroMe6+, Saf5.1+*/
+}
+
+/* Ahang Sharp */
+
+
+@font-face {
+	font-family: '_Ahang_Sharp';
+	font-style: normal;
+	font-weight: 100;
+	src: url('/Ahang/fonts/sharp/woff2/ahang-thinsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('/Ahang/fonts/sharp/woff/ahang-thinsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang_Sharp';
+	font-style: normal;
+	font-weight: 200;
+	src: url('/Ahang/fonts/sharp/woff2/ahang-ultralightsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('/Ahang/fonts/sharp/woff/ahang-ultralightsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang_Sharp';
+	font-style: normal;
+	font-weight: 300;
+	src: url('/Ahang/fonts/sharp/woff2/ahang-lightsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('/Ahang/fonts/sharp/woff/ahang-lightsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang_Sharp';
+	font-style: normal;
+	font-weight: 500;
+	src: url('/Ahang/fonts/sharp/woff2/ahang-mediumsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('/Ahang/fonts/sharp/woff/ahang-mediumsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang_Sharp';
+	font-style: normal;
+	font-weight: 600;
+	src: url('/Ahang/fonts/sharp/woff2/ahang-demiboldsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('/Ahang/fonts/sharp/woff/ahang-demiboldsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+	font-family: '_Ahang_Sharp';
+	font-style: normal;
+	font-weight: 800;
+	src: url('/Ahang/fonts/sharp/woff2/ahang-extraboldsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('/Ahang/fonts/sharp/woff/ahang-extraboldsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang_Sharp';
+	font-style: normal;
+	font-weight: 850;
+	src: url('/Ahang/fonts/sharp/woff2/ahang-ultraboldsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('/Ahang/fonts/sharp/woff/ahang-ultraboldsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang_Sharp';
+	font-style: normal;
+	font-weight: 900;
+	src: url('/Ahang/fonts/sharp/woff2/ahang-blacksharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('/Ahang/fonts/sharp/woff/ahang-blacksharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang_Sharp';
+	font-style: normal;
+	font-weight: bold;
+	src: url('/Ahang/fonts/sharp/woff2/ahang-boldsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('/Ahang/fonts/sharp/woff/ahang-boldsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: '_Ahang_Sharp';
+	font-style: normal;
+	font-weight: normal;
+	src: url('/Ahang/fonts/sharp/woff2/ahang-regularsharp.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('/Ahang/fonts/sharp/woff/ahang-regularsharp.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
